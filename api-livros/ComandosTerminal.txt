@@ -1,0 +1,11 @@
+________________________________________________________
+
+npm init -y     ->     Cria o package.json
+
+npm install express --save
+
+npm install -g nodemon -D
+
+npm install cors
+
+npm install uuidv4   ->  Gerador de id (Universally Unique Identifier)
